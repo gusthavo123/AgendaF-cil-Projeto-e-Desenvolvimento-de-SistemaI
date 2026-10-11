@@ -1,3 +1,3 @@
-Sistema para a matérias de Sistema de Desenvolvimento de Projeto I
+Sistema web de agendamento para barbearia ou salão de beleza. Substitui as anotações em papel por um cadastro único de clientes, serviços e profissionais, e controla a agenda sem permitir dois atendimentos no mesmo horário para o mesmo profissional.
 
-Sistema CRUD para agendamento de uma barbearia, feito com em PHP e com banco de dados MySQL no servidor interno.
+Feito com PHP e MySQL
